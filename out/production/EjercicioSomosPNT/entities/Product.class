@@ -1,0 +1,12 @@
+����   4 .
+  %	  &	  '
+  ( )
+  * + , name Ljava/lang/String; price I <init> (Ljava/lang/String;I)V Code LineNumberTable LocalVariableTable this Lentities/Product; getName ()Ljava/lang/String; setName (Ljava/lang/String;)V getPrice ()I setPrice (I)V 	compareTo (Lentities/Product;)I p StackMapTable (Ljava/lang/Object;)I 	Signature <Ljava/lang/Object;Ljava/lang/Comparable<Lentities/Product;>; 
+SourceFile Product.java  - 	 
+     entities/Product   java/lang/Object java/lang/Comparable ()V!       	 
+                Y     *� *+� *� �           
+   	                    	 
+               /     *� �                               >     *+� �       
+                      	 
+         /     *� �                               >     *� �       
+                                j     *� +� � �*� +� � ��           "  #  $  %  '                       A        3     	*+� � �                   	      !    " #    $

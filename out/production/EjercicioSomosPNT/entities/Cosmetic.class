@@ -1,0 +1,15 @@
+����   4 :
+  $	  % &
+  ' (
+  )
+  * +
+  , -
+  . /
+  0 1 2 content I <init> (Ljava/lang/String;II)V Code LineNumberTable LocalVariableTable this Lentities/Cosmetic; name Ljava/lang/String; price 
+getContent ()I 
+setContent (I)V toString ()Ljava/lang/String; 
+SourceFile Cosmetic.java  3   java/lang/StringBuilder  4 Nombre:  5 6 7 !  /// Contenido:  5 8 ml /// Precio: $ 9  
+   ! entities/Cosmetic entities/Product (Ljava/lang/String;I)V ()V append -(Ljava/lang/String;)Ljava/lang/StringBuilder; getName (I)Ljava/lang/StringBuilder; getPrice !                   \     *+� *� �           
+        *                                  /     *� �                               >     *� �       
+                            !     ^     4� Y� � *� � � *� � 	
+� *� � 	� � �                   4      "    #
